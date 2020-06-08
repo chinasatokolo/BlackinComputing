@@ -37,6 +37,8 @@ Aggregating resources, databases, and relevant information regarding Black stude
 
 * [The National Society of Black Engineers](https://nsbe.org/home.aspx): The mission of the National Society of Black Engineers is “to increase the number of culturally responsible Black Engineers who excel academically, succeed professionally and positively impact the community.”
 
+* [CMD-IT](http://www.cmd-it.org/): CMD-IT is the national Center for Minorities and People with Disabilities in Information Technology that is focused on the following under-represented groups: African Americans, Native Americans, Hispanics, and People with Disabilities.  
+
 
 ### Venture Capital
 
