@@ -50,6 +50,8 @@ Aggregating resources, databases, and relevant information regarding Black stude
 
 * [Black in AI](https://blackinai.github.io/): a multi-institutional, transcontinental initiative designed to create a place for sharing ideas, fostering collaborations, and discussing initiatives to increase the presence of Black individuals in the field of AI.
 
+* [Blacks In Technology](https://www.blacksintechnology.net/): Blacks In Technology is the largest community and media organization that focuses on black women and black men in the technology industry.
+
 * [Code2040](http://www.code2040.org): Code2040 is a nonprofit activating, connecting, and mobilizing the largest racial equity community in tech to dismantle the structural barriers that prevent Black and Latinx technologists from fully participating in tech.
 
 * [ColorStack](https://www.colorstack.org/): Increasing the entrance, retention, and success of Black and Latinx students pursuing technical careers.
@@ -70,6 +72,8 @@ mentorship, and career support to prepare them for careers in tech.
 * [The National GEM Consortium](https://www.gemfellowship.org/): The mission of The National GEM Consortium is to enhance the value of the nation’s human capital by increasing the participation of underrepresented groups (African Americans, American Indians, and Hispanic Americans) at the master’s and doctoral levels in engineering and science.
 
 * [The National Society of Black Engineers](https://nsbe.org/home.aspx): The mission of the National Society of Black Engineers is “to increase the number of culturally responsible Black Engineers who excel academically, succeed professionally and positively impact the community.”
+
+* [Tech Stack'd](https://www.techstackd.com/): Tech Stack’d is an online community for underrepresented adults who want to advance their careers in tech, whether that’s through starting a tech company or joining a technical career like software engineering. 
 
 
 ### Venture Capital
