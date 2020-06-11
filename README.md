@@ -32,7 +32,6 @@ Aggregating resources, databases, and relevant information regarding Black stude
 ## Relevant Organizations
 
 ### Computer Science Education
-* [blackcomputeHER.org](https://blackcomputeher.org/): blackcomputeHER.org is dedicated to supporting computing+tech education and workforce development for black women and girls.
 
 * [Black Girls Code](https://www.blackgirlscode.com/): Black Girls Code (BGC) is a not-for-profit organization that focuses on providing technology education for African-American girls.
 
