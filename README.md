@@ -24,19 +24,23 @@ Aggregating resources, databases, and relevant information regarding Black stude
 ### Computer Science Education
 * [blackcomputeHER.org](https://blackcomputeher.org/): blackcomputeHER.org is dedicated to supporting computing+tech education and workforce development for black women and girls.
 
+* [Black Girls Code](https://www.blackgirlscode.com/): Black Girls Code (BGC) is a not-for-profit organization that focuses on providing technology education for African-American girls.
+
+* [Black Boys Code](https://blackboyscode.com/): Black Boys Code helps Black boys engage with culture and become tomorrow’s drivers, creators, and innovators of technology.
+
 * [Data 4 Black Lives](http://d4bl.org/): Data for Black Lives is a movement of activists, organizers, and mathematicians committed to the mission of using data science to create concrete and measurable change in the lives of Black people.
 
 * [Strong TIES](https://strongtiesaz.org/turn-up-for-steam/): Strong TIES’ STEAM programs mission is to introduce, engage, and broaden participation of middle and high school learners, particularly underrepresented and underserved, in the field of Science, Technology, Engineering, the Arts, and Math (STEAM).
 
-* [Black Girls Code](https://www.blackgirlscode.com/): Black Girls Code (BGC) is a not-for-profit organization that focuses on providing technology education for African-American girls.
 
-* [Black Boys Code](https://blackboyscode.com/): Black Boys Code helps Black boys engage with culture and become tomorrow’s drivers, creators, and innovators of technology.
 
 ### Academic/Professional Organizations
 
 * [Black in AI](https://blackinai.github.io/): a multi-institutional, transcontinental initiative designed to create a place for sharing ideas, fostering collaborations, and discussing initiatives to increase the presence of Black individuals in the field of AI.
 
 * [Code2040](http://www.code2040.org): Code2040 is a nonprofit activating, connecting, and mobilizing the largest racial equity community in tech to dismantle the structural barriers that prevent Black and Latinx technologists from fully participating in tech.
+
+* [ColorStack](https://www.colorstack.org/): Increasing the entrance, retention, and success of Black and Latinx students pursuing technical careers.
 
 * [Data Science Africa](http://www.datascienceafrica.org/): aims to create a hub in the network of data science researchers across Africa.
 
