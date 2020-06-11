@@ -30,6 +30,8 @@ Aggregating resources, databases, and relevant information regarding Black stude
 
 * [Black in AI](https://blackinai.github.io/): a multi-institutional, transcontinental initiative designed to create a place for sharing ideas, fostering collaborations, and discussing initiatives to increase the presence of Black individuals in the field of AI.
 
+* [Code2040](http://www.code2040.org): Code2040 is a nonprofit activating, connecting, and mobilizing the largest racial equity community in tech to dismantle the structural barriers that prevent Black and Latinx technologists from fully participating in tech.
+
 * [Data Science Africa](http://www.datascienceafrica.org/): aims to create a hub in the network of data science researchers across Africa.
 
 * [Deep Learning Indaba](https://deeplearningindaba.com/): The Deep Learning Indaba is an organisation whose mission is to Strengthen Machine Learning and Artificial Intelligence in Africa.
