@@ -42,9 +42,14 @@ Aggregating resources, databases, and relevant information regarding Black stude
 
 * [ColorStack](https://www.colorstack.org/): Increasing the entrance, retention, and success of Black and Latinx students pursuing technical careers.
 
+* [CodePath](https://www.codepath.org/): CodePath provides college students with no-cost coding courses,
+mentorship, and career support to prepare them for careers in tech.
+
 * [Data Science Africa](http://www.datascienceafrica.org/): aims to create a hub in the network of data science researchers across Africa.
 
 * [Deep Learning Indaba](https://deeplearningindaba.com/): The Deep Learning Indaba is an organisation whose mission is to Strengthen Machine Learning and Artificial Intelligence in Africa.
+
+* [/dev/color](https://www.devcolor.org/): Our mission is to empower Black software engineers to help one another grow into industry leaders.
 
 * [The National GEM Consortium](https://www.gemfellowship.org/): The mission of The National GEM Consortium is to enhance the value of the nation’s human capital by increasing the participation of underrepresented groups (African Americans, American Indians, and Hispanic Americans) at the master’s and doctoral levels in engineering and science.
 
