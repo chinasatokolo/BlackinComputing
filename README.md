@@ -9,6 +9,7 @@ Aggregating resources, databases, and relevant information regarding Black stude
 * [Dear tech industry: Protesting is important, but it’s not enough](https://www.fastcompany.com/90513871/dear-tech-industry-protesting-is-important-but-its-not-enough) by Code2040
 * [It’s Time We Dealt With White Supremacy in Tech](https://marker.medium.com/its-time-we-dealt-with-white-supremacy-in-tech-8f7816fe809) by Tiffani Ashley Bell, Founder and Executive Director of The Human Utility
 * [What Can CS Departments Do?](https://medium.com/@maperezquinones/what-can-cs-departments-do-925aa4ade70f) by Manuel A. Pérez-Quiñones (University of North Carolina, Charlotte)
+* [Supporting DEI in CS and Throughout Academia](https://www.divinemaloney.com/supportdei) by Divine Maloney
 
 ## Guidelines
 * [Guidelines for Diversity & Inclusion in Crisis](http://www.juangilbert.com/CrisisGuidelines.pdf) by Dr. Juan E. Gilbert (University of Florida)
