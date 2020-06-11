@@ -14,6 +14,8 @@ Aggregating resources, databases, and relevant information regarding Black stude
 ## Databases
 * [Computing Community Public Statements](https://docs.google.com/spreadsheets/d/1vUj3BBJ2Xps5OhvRntQrx2zo1lGg12Q5MGt-rVeWTmI/edit#gid=0)
 
+* [Statements Made by Top Tech Companies on Racial Justice, BLM, and George Floyd](https://docs.google.com/spreadsheets/d/1OZx-_tm3PPyx6-ZJAST1xxOJRfn7KfYDjDT6JedrTfs/edit#gid=0) by Sherrell Dorsey of The Plug Insights
+
 ## Relevant Organizations
 
 ### Computer Science Education
