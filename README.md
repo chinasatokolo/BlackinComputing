@@ -3,7 +3,7 @@ Aggregating resources, databases, and relevant information regarding Black stude
 
 
 ## Open Letters
-* [An Open Letter & Call to Action to the Computing Community from Black in Computing and Our Allies](https://blacksincomputingopenlettercommunity.wordpress.com/)
+* [An Open Letter & Call to Action to the Computing Community](https://blacksincomputingopenlettercommunity.wordpress.com/) from Black in Computing and Our Allies
 * [On Being Black in Computing During These Days](https://medium.com/@quincykbrown/on-being-black-in-computing-during-these-days-54e049d56987) by Quincy K. Brown
 * [Reflections from a Black Graduate Student](https://medium.com/@chinasaokolo/reflections-from-a-black-graduate-student-a0f2f5e285c0) by Chinasa Okolo
 * [Dear tech industry: Protesting is important, but it’s not enough](https://www.fastcompany.com/90513871/dear-tech-industry-protesting-is-important-but-its-not-enough) by Code2040
