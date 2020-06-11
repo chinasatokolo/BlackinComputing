@@ -19,6 +19,16 @@ Aggregating resources, databases, and relevant information regarding Black stude
 
 * [Statements Made by Top Tech Companies on Racial Justice, BLM, and George Floyd](https://docs.google.com/spreadsheets/d/1OZx-_tm3PPyx6-ZJAST1xxOJRfn7KfYDjDT6JedrTfs/edit#gid=0) by Sherrell Dorsey of The Plug Insights
 
+
+## Conferences
+
+* [The National Society of Blacks in Computing Conference](http://nsbc.org/)
+
+* [ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org/)
+
+* [NSBE Convention](http://convention.nsbe.org/)
+
+
 ## Relevant Organizations
 
 ### Computer Science Education
@@ -33,8 +43,9 @@ Aggregating resources, databases, and relevant information regarding Black stude
 * [Strong TIES](https://strongtiesaz.org/turn-up-for-steam/): Strong TIES’ STEAM programs mission is to introduce, engage, and broaden participation of middle and high school learners, particularly underrepresented and underserved, in the field of Science, Technology, Engineering, the Arts, and Math (STEAM).
 
 
-
 ### Academic/Professional Organizations
+
+* [blackcomputeHER.org](https://blackcomputeher.org/): blackcomputeHER.org is dedicated to supporting computing+tech education and workforce development for black women and girls.
 
 * [Black in AI](https://blackinai.github.io/): a multi-institutional, transcontinental initiative designed to create a place for sharing ideas, fostering collaborations, and discussing initiatives to increase the presence of Black individuals in the field of AI.
 
@@ -45,17 +56,19 @@ Aggregating resources, databases, and relevant information regarding Black stude
 * [CodePath](https://www.codepath.org/): CodePath provides college students with no-cost coding courses,
 mentorship, and career support to prepare them for careers in tech.
 
+* [CMD-IT](http://www.cmd-it.org/): CMD-IT is the national Center for Minorities and People with Disabilities in Information Technology that is focused on the following under-represented groups: African Americans, Native Americans, Hispanics, and People with Disabilities.  
+
 * [Data Science Africa](http://www.datascienceafrica.org/): aims to create a hub in the network of data science researchers across Africa.
 
 * [Deep Learning Indaba](https://deeplearningindaba.com/): The Deep Learning Indaba is an organisation whose mission is to Strengthen Machine Learning and Artificial Intelligence in Africa.
 
 * [/dev/color](https://www.devcolor.org/): Our mission is to empower Black software engineers to help one another grow into industry leaders.
 
+* [Institute for African-American Mentoring in Computing Sciences](http://www.iaamcs.org/): iAAMCS aims to significantly increase the number of Black/African Americans pursuing and completing the PhD in computing fields through a national mentoring model. 
+
 * [The National GEM Consortium](https://www.gemfellowship.org/): The mission of The National GEM Consortium is to enhance the value of the nation’s human capital by increasing the participation of underrepresented groups (African Americans, American Indians, and Hispanic Americans) at the master’s and doctoral levels in engineering and science.
 
 * [The National Society of Black Engineers](https://nsbe.org/home.aspx): The mission of the National Society of Black Engineers is “to increase the number of culturally responsible Black Engineers who excel academically, succeed professionally and positively impact the community.”
-
-* [CMD-IT](http://www.cmd-it.org/): CMD-IT is the national Center for Minorities and People with Disabilities in Information Technology that is focused on the following under-represented groups: African Americans, Native Americans, Hispanics, and People with Disabilities.  
 
 
 ### Venture Capital
@@ -67,3 +80,6 @@ mentorship, and career support to prepare them for careers in tech.
 * [Backstage Capital](https://backstagecapital.com/): Backstage Capital has invested over $7M in more than 130 companies led by underrepresented founders.
 
 * [Founder Gym](https://foundergym.com/): Founder Gym is the leading online program training underrepresented founders on how to raise money to scale their tech startups.
+
+
+
