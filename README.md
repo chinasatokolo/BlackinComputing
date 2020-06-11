@@ -19,6 +19,8 @@ Aggregating resources, databases, and relevant information regarding Black stude
 
 * [Statements Made by Top Tech Companies on Racial Justice, BLM, and George Floyd](https://docs.google.com/spreadsheets/d/1OZx-_tm3PPyx6-ZJAST1xxOJRfn7KfYDjDT6JedrTfs/edit#gid=0) by Sherrell Dorsey of The Plug Insights
 
+* [Race, Representation & UXR](https://docs.google.com/document/d/1RpVaIVr_VDwNafPIGcQFm1tgh46QL483UC0UXxrfawk/edit)
+
 
 ## Conferences
 
