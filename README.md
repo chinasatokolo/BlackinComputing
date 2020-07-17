@@ -22,12 +22,21 @@ Aggregating resources, databases, and relevant information regarding Black stude
 
 * [Race, Representation & UXR](https://docs.google.com/document/d/1RpVaIVr_VDwNafPIGcQFm1tgh46QL483UC0UXxrfawk/edit)
 
+## Initiatives
+
+* [Exploration in Diversifying Engineering Faculty Initiative](https://blackengineeringphd.org/)
 
 ## Conferences
 
-* [The National Society of Blacks in Computing Conference](http://nsbc.org/)
-
 * [ACM Richard Tapia Celebration of Diversity in Computing](http://tapiaconference.org/)
+
+* [AfroTech](https://experience.afrotech.com/)
+
+* [BDPA Conference](https://www.bdpa.org/events/EventDetails.aspx?id=1271895)
+
+* [blackcomputeHER Conference](https://blackcomputeher.org/2020-conference/)
+
+* [The National Society of Blacks in Computing Conference](http://nsbc.org/)
 
 * [NSBE Convention](http://convention.nsbe.org/)
 
@@ -46,6 +55,8 @@ Aggregating resources, databases, and relevant information regarding Black stude
 
 
 ### Academic/Professional Organizations
+
+* [Academic and Research Leadership (ARL) Network](https://arlnetwork.org/): The goal of the Academic and Research Leadership (ARL) Network is to provide a resource to minority engineers underrepresented in academia, industry, and government laboratories whose careers involve a strong focus on research.
 
 * [blackcomputeHER.org](https://blackcomputeher.org/): blackcomputeHER.org is dedicated to supporting computing+tech education and workforce development for black women and girls.
 
