@@ -49,6 +49,8 @@ Aggregating resources, databases, and relevant information regarding Black stude
 
 * [blackcomputeHER.org](https://blackcomputeher.org/): blackcomputeHER.org is dedicated to supporting computing+tech education and workforce development for black women and girls.
 
+* [Black Data Processing Associates (BDPA)](https://www.bdpa.org/): BDPA is an international organization with a diverse membership of professionals and students at all levels in the fields of information technology, computer science and related S.T.E.M fields.
+
 * [Black in AI](https://blackinai.github.io/): a multi-institutional, transcontinental initiative designed to create a place for sharing ideas, fostering collaborations, and discussing initiatives to increase the presence of Black individuals in the field of AI.
 
 * [Blacks In Technology](https://www.blacksintechnology.net/): Blacks In Technology is the largest community and media organization that focuses on black women and black men in the technology industry.
