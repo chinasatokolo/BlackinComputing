@@ -4,13 +4,22 @@ Aggregating resources, databases, and relevant information regarding Black stude
 
 ## Open Letters
 * [An Open Letter & Call to Action to the Computing Community](https://blacksincomputingopenlettercommunity.wordpress.com/) from Black in Computing and Our Allies
+
 * [On Being Black in Computing During These Days](https://medium.com/@quincykbrown/on-being-black-in-computing-during-these-days-54e049d56987) by Quincy K. Brown
+
 * [Reflections from a Black Graduate Student](https://medium.com/@chinasaokolo/reflections-from-a-black-graduate-student-a0f2f5e285c0) by Chinasa Okolo
+
 * [Dear tech industry: Protesting is important, but it’s not enough](https://www.fastcompany.com/90513871/dear-tech-industry-protesting-is-important-but-its-not-enough) by Code2040
+
 * [It’s Time We Dealt With White Supremacy in Tech](https://marker.medium.com/its-time-we-dealt-with-white-supremacy-in-tech-8f7816fe809) by Tiffani Ashley Bell, Founder of The Human Utility
+
 * [What Can CS Departments Do?](https://medium.com/@maperezquinones/what-can-cs-departments-do-925aa4ade70f) by Manuel A. Pérez-Quiñones (University of North Carolina, Charlotte)
+
 * [Supporting DEI in CS and Throughout Academia](https://www.divinemaloney.com/supportdei) by Divine Maloney
+
 * [Addressing Institutional Racism Within Initiatives For SIGCHI’s Diversity And Inclusion](https://interactions.acm.org/blog/view/addressing-institutional-racism-within-initiatives-for-sigchis-diversity-an)
+
+* [Black in Engineering Call to Action](https://blackinengineering.org/action-item-list/)
 
 ## Guidelines
 * [Guidelines for Diversity & Inclusion in Crisis](http://www.juangilbert.com/CrisisGuidelines.pdf) by Dr. Juan E. Gilbert (University of Florida)
